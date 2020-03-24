@@ -27,6 +27,7 @@ the fields to put in the config file are :
  - subject:
  - opening:
  - closing:
+ - lang:
  
  
 Opening and closing are already ended respectively by a comma and a dot.
