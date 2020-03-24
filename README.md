@@ -5,7 +5,7 @@ Latex Template for motivations Letter used with Pandoc
 
 create a file config.yaml or use the sequences to end and start a yaml file in a markdown file :
 
-\---
+\---  
 ...
 
 the fields to put in the config file are :  
